@@ -5,9 +5,9 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-## 📊 **1. Long-Term Ridership Trend**
+##  **1. Long-Term Ridership Trend**
 
-![Long-term Ridership Trend](PATH/TO/YOUR/long_term_trend.png)
+![Long-term Ridership Trend](Ridership.png)
 
 ### 🔹 Insight Summary
 - Ridership shows a **steady upward trend** over the years.
@@ -17,7 +17,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-## 📅 **2. Annual and Monthly Seasonality**
+##  **2. Annual and Monthly Seasonality**
 
 ### 🔹 Insight Summary
 - Clear **annual and monthly cycles** appear in the dataset.
@@ -27,7 +27,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-## 🦠 **3. COVID-19 Impact (2020–2021)**
+##  **3. COVID-19 Impact (2020–2021)**
 
 ### 🔹 Insight Summary
 - A sharp, unprecedented drop in ridership during the COVID lockdowns.
@@ -40,7 +40,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-## 🚏 **4. Rapid Route – Most Stable Service**
+##  **4. Rapid Route – Most Stable Service**
 
 ### 🔹 Insight Summary
 - The **Rapid Route** exhibits:
@@ -52,7 +52,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-## 🏫 **5. Peak Service & School Transport Patterns**
+##  **5. Peak Service & School Transport Patterns**
 
 ![Next 30 Days Forecast](PATH/TO/YOUR/school_forecast.png)
 
@@ -70,7 +70,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ---
 
-# 📈 **SARIMAX Forecasting Model**
+#  **SARIMAX Forecasting Model**
 
 ## **1. Introduction**
 The **SARIMAX** model (Seasonal AutoRegressive Integrated Moving Average with Exogenous Variables) is ideal for time-series data containing:
