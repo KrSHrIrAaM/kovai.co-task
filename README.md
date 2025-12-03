@@ -54,7 +54,7 @@ The goal is to understand long-term patterns, seasonality, and provide accurate 
 
 ##  **5. Peak Service & School Transport Patterns**
 
-![Next 30 Days Forecast](PATH/TO/YOUR/school_forecast.png)
+
 
 ### 🔹 Insight Summary
 - **Peak Service**:
@@ -111,5 +111,4 @@ Steps followed:
 - **MAPE** – Percentage-based accuracy  
 - **Residual diagnostics** – Ensured minimal autocorrelation
 
-Typical best model:
-
+[Prediction]((PATH/TO/YOUR/school_forecast.png))
