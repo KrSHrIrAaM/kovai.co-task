@@ -111,4 +111,4 @@ Steps followed:
 - **MAPE** – Percentage-based accuracy  
 - **Residual diagnostics** – Ensured minimal autocorrelation
 
-
+![Prediction](prediction.png)
